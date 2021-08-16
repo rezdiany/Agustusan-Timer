@@ -3,7 +3,7 @@ const hoursEl = document.getElementById('hours');
 const minsEl = document.getElementById('mins');
 const secondsEl = document.getElementById('seconds');
 
-const agust = "17 August 2021";
+const agust = "17 August 2022";
 
 function countdown() {
     const agustDate = new Date(agust);
